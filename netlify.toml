@@ -8,8 +8,6 @@
 
 [dev]
   autoLaunch = false
-  port = 5000
-  targetPort = 5555
 
 [functions]
   node_bundler = "esbuild"
